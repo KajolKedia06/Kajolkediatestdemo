@@ -8,7 +8,7 @@ public class ArrayListMethods {
 	  ArrayList <String> list=new ArrayList<String>();
 	  list.add("jhon");
 	  list.add("sam");
-	  list.add("rock");
+	  list.add("roock");
 	  ListIterator<String> itr=list.listIterator();
 		System.out.println("Adding Element");
 		while(itr.hasNext()) {
